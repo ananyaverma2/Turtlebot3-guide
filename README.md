@@ -61,7 +61,15 @@ Use the keys **w, a, d, x, s** to move the robot.
 sudo apt-get install ros-melodic-gazebo-ros-pkgs
 ```
 
-**Now we are ready to work on the Turtlebot3**
+## Visualization using RViz
+
+It is possible to visualize the published topics in RViz using the below mentioned command
+
+```
+roslaunch turtlebot3_gazebo turtlebot3_gazebo_rviz.launch
+```
+
+**Now we are ready to work on the Turtlebot3 robot**
 
 # Mapping
 
